@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lemanh99
+- 👀 I’m from Nghe An, Viet Nam
+- 🌱 I’m learning Information Technologies at Da Nang Technology University 
+- About me: https://lemanh.me/
