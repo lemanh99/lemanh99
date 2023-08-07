@@ -27,3 +27,5 @@
 [facebook]: https://www.facebook.com/lemanh.10.11.99/
 [youtube]: https://www.youtube.com/@LeXuanManh101199
 [linkedin]: https://www.linkedin.com/in/lemanh/
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemanh99&hide_title=true&show_icons=true&locale=en)
